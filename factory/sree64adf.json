@@ -1,0 +1,9 @@
+{
+	"name": "sree64adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a3d3dc19-5768-45d7-84b5-a9c5b7854043",
+		"tenantId": "542907e3-398a-448a-a9fb-5c4fe9c0e2fc"
+	}
+}
